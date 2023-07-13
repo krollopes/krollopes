@@ -1,6 +1,6 @@
 ### Olá! Sou a Caroline Lopes 👋
 
-- 🔭 Trabalhando com front end
+- 🔭 Trabalhando com front end | Coordenadora de tecnologia 
 - 🌱 Estudando javascript, typescript, reactjs, nextjs...
 - 😄 Pronouns: ela/dela
 
