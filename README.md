@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Caroline 👋  
 
-💻 Desenvolvedora Frontend Sênior especializada em **React, TypeScript, Javascript, Next.js** e apaixonada por criar interfaces modernas e intuitivas.  
+💻 **Desenvolvedora Frontend Sênior** com experiência em **React, JavaScript, TypeScript, Next.js** e apaixonada por criar interfaces modernas e performáticas.  
 📌 Atualmente, estou aprimorando conhecimentos em **arquitetura de software, microfrontends e boas práticas de código**.  
 📚 Sempre aprendendo algo novo.  
+🎯 Foco em **performance, acessibilidade e experiência do usuário**.  
 
 ### 🚀 Tecnologias que utilizo  
 - React.js, Next.js, TypeScript, JavaScript (ES6+).  
@@ -11,9 +12,11 @@
 - Consumo de APIs REST e GraphQL.  
 
 ### 📌 Projetos em Destaque  
-🔹 [Projeto 1](link) - Descrição breve do projeto.  
-🔹 [Projeto 2](link) - Descrição breve do projeto.  
-🔹 [Projeto 3](link) - Descrição breve do projeto.  
+🔹 [Projeto 1](https://github.com/krollopes/dashboard-stats) - Descrição breve do projeto.  
+🔹 [Projeto 2](https://github.com/krollopes/react-design-system) - Descrição breve do projeto.  
+🔹 [Projeto 3](https://github.com/krollopes/vite-mod-fed) - Descrição breve do projeto.  
 
-📬 Entre em contato:  
+## 📬 Vamos conversar? 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-lopes/)  
+
+
