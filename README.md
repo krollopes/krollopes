@@ -12,7 +12,7 @@
 - Consumo de APIs REST e GraphQL.  
 
 ### 📌 Projetos em Destaque  
-🔹 [Projeto 1](https://github.com/krollopes/dashboard-stats) - Descrição breve do projeto.  
+🔹 [Projeto 1](https://github.com/krollopes/dashboard-stats) - Este projeto é um painel de estatísticas que exibe dados em tempo real de várias fontes. Ele foi desenvolvido para fornecer uma visão clara e concisa das métricas importantes para o seu negócio.  
 🔹 [Projeto 2](https://github.com/krollopes/react-design-system) - Descrição breve do projeto.  
 🔹 [Projeto 3](https://github.com/krollopes/vite-mod-fed) - Descrição breve do projeto.  
 
